@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+This inventory contains the project data of HalfPizza, a decentralized game project, including the Pizza Token Contract, Pizzagame Contract, subtoken SWET token Contract and project code.
